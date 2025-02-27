@@ -1,0 +1,9 @@
+Transaction_ID,Customer_ID,Transaction_Date,Product_ID,Product_Name,Price,Quantity,Total_Sales,Payment_Method,Store_Location
+1,101,2025-01-01,P001,Widget A,15.99,2,31.98,Credit Card,Store_A
+2,102,2025-01-01,P002,Widget B,22.5,1,22.5,Debit Card,Store_B
+3,103,2025-01-02,P003,Widget C,9.99,5,49.95,Cash,Store_A
+5,105,2025-01-04,P002,Widget B,22.5,2,45,Cash,Store_A
+6,106,2025-01-05,P004,Widget D,10,3,30,Credit Card,Store_B
+8,108,2025-01-07,P003,Widget C,9.99,4,39.96,Cash,Store_B
+9,109,2025-01-08,P001,Widget A,15.99,3,47.97,Credit Card,Store_A
+10,110,2025-01-09,P002,Widget B,22.5,1,22.5,Debit Card,Store_A
